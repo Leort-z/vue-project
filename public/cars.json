@@ -1,0 +1,138 @@
+[
+  {
+    "manufacturer": "Tesla",
+    "model": "Model S",
+    "year": 2022,
+    "fuelType": "Electric",
+    "engine": null,
+    "transmission": "Automatic",
+    "color": "Midnight Silver Metallic",
+    "interiorColor": "Black",
+    "options": ["Autopilot", "Full Self-Driving Capability", "Panoramic Sunroof"],
+    "price": 79990
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Mustang",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "5.0L V8",
+    "transmission": "10-speed automatic",
+    "color": "Rapid Red",
+    "interiorColor": "Ebony",
+    "options": ["Ford Co-Pilot360 Assist+", "B&O Sound System", "Adaptive Cruise Control"],
+    "price": 40960
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "1.8L 4-cylinder",
+    "transmission": "CVT",
+    "color": "Barcelona Red Metallic",
+    "interiorColor": "Light Gray",
+    "options": ["Blind Spot Monitor", "Rear Cross-Traffic Alert", "Smart Key System"],
+    "price": 21100
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Equinox",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "1.5L Turbo 4-cylinder",
+    "transmission": "6-speed automatic",
+    "color": "Mosaic Black Metallic",
+    "interiorColor": "Jet Black",
+    "options": ["Chevy Safety Assist", "Rear Park Assist", "HD Rear Vision Camera"],
+    "price": 25900
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Atlas",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "2.0L Turbo 4-cylinder",
+    "transmission": "8-speed automatic",
+    "color": "Pure Gray",
+    "interiorColor": "Titan Black",
+    "options": ["Adaptive Cruise Control", "Remote Start", "Panoramic Sunroof"],
+    "price": 31495
+  },
+  {
+    "manufacturer": "Tesla",
+    "model": "Model X",
+    "year": 2022,
+    "fuelType": "Electric",
+    "engine": null,
+    "transmission": "Automatic",
+    "color": "Pearl White Multi-Coat",
+    "interiorColor": "White",
+    "options": ["Autopilot", "Full Self-Driving Capability", "Six-Seat Interior"],
+    "price": 91990
+  },
+  {
+    "manufacturer": "Ford",
+    "model": "Explorer",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "2.3L EcoBoost 4-cylinder",
+    "transmission": "10-speed automatic",
+    "color": "Agate Black Metallic",
+    "interiorColor": "Ebony",
+    "options": ["Ford Co-Pilot360 Assist+", "B&O Sound System", "Twin-Panel Moonroof"],
+    "price": 38160
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "2.5L 4-cylinder",
+    "transmission": "8-speed automatic",
+    "color": "Celestial Silver Metallic",
+    "interiorColor": "Ash",
+    "options": [
+      "Blind Spot Monitor",
+      "Rear Cross-Traffic Alert",
+      "Qi-compatible Wireless Charging"
+    ],
+    "price": 26830
+  },
+  {
+    "manufacturer": "Chevrolet",
+    "model": "Silverado 1500",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "4.3L V6",
+    "transmission": "6-speed automatic",
+    "color": "Summit White",
+    "interiorColor": "Jet Black",
+    "options": ["Chevy Safety Assist", "Rear Vision Camera", "Trailering Package"],
+    "price": 28795
+  },
+  {
+    "manufacturer": "Volkswagen",
+    "model": "Passat",
+    "year": 2022,
+    "fuelType": "Gasoline",
+    "engine": "2.0L Turbo 4-cylinder",
+    "transmission": "6-speed automatic",
+    "color": "Pure White",
+    "interiorColor": "Mauro Brown",
+    "options": ["Adaptive Cruise Control", "Remote Start", "Power Tilting/sliding Sunroof"],
+    "price": 23795
+  },
+  {
+    "manufacturer": "Tesla",
+    "model": "Model 3",
+    "year": 2022,
+    "fuelType": "Electric",
+    "engine": null,
+    "transmission": "Automatic",
+    "color": "Deep Blue Metallic",
+    "interiorColor": "Black and White",
+    "options": ["Autopilot", "Full Self-Driving Capability", "Premium Connectivity"],
+    "price": 44790
+  }
+]
