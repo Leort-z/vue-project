@@ -3,14 +3,26 @@ import type { Car } from '@/interfaces/Car'
 import { reactive } from 'vue'
 
 const emit = defineEmits(['add-new-car'])
-const formValues: Car = reactive({})
+let formValues: Car = reactive({})
 
-const handleAddNewCar = () => emit('add-new-car', formValues)
+const resetFormValues = () => {
+  formValues.model = undefined
+  formValues.manufacturer = undefined
+  formValues.year = undefined
+  formValues.color = undefined
+  formValues.fuelType = undefined
+  formValues.price = undefined
+}
+
+const handleAddNewCar = () => {
+  emit('add-new-car', { ...formValues })
+  resetFormValues()
+}
 </script>
 
 <template>
   <h2>Adicionar veículo</h2>
-  <form @submit.stop.prevent="handleAddNewCar">
+  <form @reset="resetFormValues" @submit.stop.prevent="handleAddNewCar">
     <fieldset>
       <legend>Preencha os campos abaixo para adicionar um veículo</legend>
       <label>
